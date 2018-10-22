@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SAMPLE",
+    "screenshot": "screenshot/screenshot.png",
+    "variants": {
+      "glTF": "SAMPLE.gltf",
+      "glTF-Binary": "SAMPLE.glb",
+      "glTF-Draco": "SAMPLE.gltf",
+      "glTF-Embedded": "SAMPLE.gltf",
+      "glTF-pbrSpecularGlossiness": "SAMPLE.gltf"
+      }
+      }
+      ]
